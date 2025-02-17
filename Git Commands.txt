@@ -1,0 +1,5 @@
+git status ---> checking status
+git add . --> adding all files
+git add "file name with extension" -->adding specific file
+git commit -m "Commit name " --> adding commit
+git push origin main ---> adding files to main directory.
